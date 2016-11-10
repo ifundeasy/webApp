@@ -1,0 +1,21 @@
+{
+  "name": "mobile-pos",
+  "description": "mobile-pos",
+  "main": "index.js",
+  "authors": [
+    "Afa Rappresent"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bluebird": "^3.4.6"
+  }
+}

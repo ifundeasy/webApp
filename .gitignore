@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+mongo/
+data/
+log/
+node_modules/
+bower_components/
+www/config/mongo.js
